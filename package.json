@@ -1,0 +1,25 @@
+{
+  "name": "atividade01ppi2025",
+  "version": "1.0.0",
+  "description": "Atividade 01 da matéria de Programação para Internet do curso de ADS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipe-nagashima/Atividade01PPI2025.git"
+  },
+  "author": "Filipe Souza Nagashima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipe-nagashima/Atividade01PPI2025/issues"
+  },
+  "homepage": "https://github.com/filipe-nagashima/Atividade01PPI2025#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
